@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "play",
-    "slug": "play",
+    "name": "create",
+    "slug": "create",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "play",
+    "scheme": "create",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
